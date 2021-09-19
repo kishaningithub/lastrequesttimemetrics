@@ -16,3 +16,6 @@
 
 # Intellij files
 .idea/
+
+# Prometheus db files
+data/
